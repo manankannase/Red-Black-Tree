@@ -1,6 +1,6 @@
 # Red-Black Tree Implementation in C++
 
-This is a C++ implementation of a Red-Black Tree data structure that provides insertion, removal, and visualization functionalities. The Red-Black Tree is a self-balancing binary search tree that maintains balanced properties, ensuring efficient operations such as insertion, deletion, and searching in O(log n) time complexity.
+This is a C++ implementation of the Red-Black Tree data structure, which includes insertion, removal, and viewing capabilities. The Red-Black Tree is a self-balancing binary search tree that maintains balanced qualities while performing efficient operations like insertion, deletion, and searching in O(log n) time complexity.
 
 Note: This implementation provides a basic structure for a Red-Black Tree. It's essential to handle various edge cases and thoroughly test the functionalities when using this code in real-world applications.
 
